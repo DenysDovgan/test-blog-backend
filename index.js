@@ -13,7 +13,6 @@ mongoose
   .then(() => console.log('DB OK!'))
   .catch(() => console.log('DB ERROR', err))
 
-
 const app = express();
 
 app.use(express.json());
