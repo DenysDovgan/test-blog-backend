@@ -1,4 +1,4 @@
-# test-blog-fullstack
+# test-blog-backend
 
 Backend on Node.js that was creating for Blog Wbsite on React.js. There used MongoDB as a database.
 ```diff
